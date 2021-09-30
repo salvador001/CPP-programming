@@ -6,7 +6,7 @@ int main()
     int a , b , temp;
 
     cout << "Before swapping." << endl;
-    cout<<"enter the number "<< endl;
+    cout<<"Enter the number "<< endl;
     cin>> a >> b;
 
         cout << "a = " << a << ", b = " << b << endl;
