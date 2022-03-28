@@ -7,6 +7,8 @@ int main() {
     cout << "Enter a year: ";
     cin >> year;
 
+/*Simple if else statement logic*/
+
     if (year % 4 == 0) {
         if (year % 100 == 0) {
             if (year % 400 == 0)
